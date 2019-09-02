@@ -13,6 +13,7 @@ class Addcla
 		int y=Integer.parseInt(a[1]);
 		int z=x+y;
 		System.out.println("Addition Result of given value= "+z);
+			System.out.println("Hello Amit");
 		}
 	}
 }
